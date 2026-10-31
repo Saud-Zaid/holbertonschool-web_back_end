@@ -7,3 +7,4 @@ This repository contains backend projects for Holberton School.
 | Directory | Description |
 | --------- | ----------- |
 | [python_async_function](./python_async_function) | Asynchronous programming in Python using `asyncio` and `random` |
+| [python_async_comprehension](./python_async_comprehension) | Asynchronous generators and comprehensions in Python |
